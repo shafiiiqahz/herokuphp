@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Norshafiqah Binte Zainal",
+        "email": "20037987@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
